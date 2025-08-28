@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=giufaria&theme=shadow-purple&hide_border=falso&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=650)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=giuliaf-soulcode&theme=shadow-purple&hide_border=falso&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=650)](https://git.io/streak-stats)
 
 </div>
 
