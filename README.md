@@ -1,7 +1,7 @@
 <img width=100% bottom=50px src="https://github.com/giufaria/giufaria/assets/114711760/a84e854a-b4d7-40d5-aa3e-a945aba647c6"/>
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=AE19F7&center=falso&vCenter=verdadeiro&repeat=verdadeiro&random=falso&width=700&height=200&lines=Oii%2C+meu+nome+é+Giulia+;tenho+21+anos;sou+desenvolvedora+a+full+stack+aqui+na+Soulcode;Bem-Vindo%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=AE19F7&center=falso&vCenter=verdadeiro&repeat=verdadeiro&random=falso&width=700&height=200&lines=Oii%2C+meu+nome+é+Giulia+;tenho+21+anos;sou+desenvolvedora+fullstack;Aqui+na+Soulcode💙💛;Bem-Vindo%3A)](https://git.io/typing-svg)
 
 
 <div align="center">
